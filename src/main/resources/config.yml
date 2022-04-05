@@ -1,0 +1,9 @@
+servergroup: Hub-01
+servername: Hub-01
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  auth:
+    enabled: false
+    password: ''

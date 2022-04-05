@@ -1,0 +1,6 @@
+name: Diamond
+version: e43d3w
+main: zz.kidog.Diamond.Diamond
+author: KidOGzz
+depend:
+  - ogLib
